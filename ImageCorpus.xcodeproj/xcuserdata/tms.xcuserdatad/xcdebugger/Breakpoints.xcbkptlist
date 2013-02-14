@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/imageCorpusAnalysisApp.cpp"
+         timestampString = "349752423.146327"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "184"
+         endingLineNumber = "184"
+         landmarkName = "imageCorpusAnalysisApp::analyzeDirectory(string dirName)"
+         landmarkType = "5">
+         <Locations>
+            <Location
+               shouldBeEnabled = "No"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "void std::__destroy_aux&lt;ofFile*&gt;(ofFile*, ofFile*, std::__false_type)"
+               urlString = "file://localhost/imageCorpusAnalysisApp.cpp"
+               timestampString = "349373756.148833"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "182"
+               endingLineNumber = "182">
+            </Location>
+            <Location
+               shouldBeEnabled = "No"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "void std::__destroy_aux&lt;std::string*&gt;(std::string*, std::string*, std::__false_type)"
+               urlString = "file://localhost/imageCorpusAnalysisApp.cpp"
+               timestampString = "349373756.149058"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "182"
+               endingLineNumber = "182">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/IRKDTree.cpp"
+         timestampString = "350345430.650843"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "59"
+         endingLineNumber = "59"
+         landmarkName = "IRKDTree::searchForPoint(int searchIndex, std::vector&lt;int&gt; *res)"
+         landmarkType = "5">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "cv::Mat::MSize::MSize(int*)"
+               urlString = "file://localhost/IRKDTree.cpp"
+               timestampString = "349980977.811452"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "66"
+               endingLineNumber = "66">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "cvflann::SearchParams::SearchParams(int)"
+               urlString = "file://localhost/IRKDTree.cpp"
+               timestampString = "349980977.811652"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "66"
+               endingLineNumber = "66">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "src/IRKDTree.cpp"
+         timestampString = "350345430.650843"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "46"
+         endingLineNumber = "46"
+         landmarkName = "IRKDTree::searchForPoint(int searchIndex, std::vector&lt;int&gt; *res)"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
