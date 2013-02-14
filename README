@@ -1,0 +1,18 @@
+ImageDB
+
+(c) Tom Stoll, 2011-13
+Released under the GPLv3 License.
+
+This is the code from an installation project I did at Squeaky Wheel in Buffalo, NY, titled Overgrowth. It was produced as part of a Regional Artist Access Residency (RAAR).
+
+I am posting this on GitHub (2/13) with the hope that someone finds it useful some day. I plan to come back to this project at some point and develop further.
+
+It was made with OpenFrameworks 0072
+
+TO DO:
+
+documentation
+clean up code
+make better
+
+tms@kitefishlabs.com
