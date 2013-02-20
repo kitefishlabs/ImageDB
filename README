@@ -1,13 +1,19 @@
 ImageDB
+=======
 
-(c) Tom Stoll, 2011-13
-Released under the GPLv3 License.
+Corpus-based Retrieval for OpenFrameworks + OpenCV.
+
+(c) 2011-2013, Tom Stoll, released under the terms of GPL v.3, all rights reserved. Please see COPYING for a copy of the license.
+
+=======
 
 This is the code from an installation project I did at Squeaky Wheel in Buffalo, NY, titled Overgrowth. It was produced as part of a Regional Artist Access Residency (RAAR).
 
 I am posting this on GitHub (2/13) with the hope that someone finds it useful some day. I plan to come back to this project at some point and develop further.
 
-It was made with OpenFrameworks 0072
+It was made with OpenFrameworks 0072.
+
+An introductory tutorial and more docs will be available by summer 2013.
 
 TO DO:
 
